@@ -1,1 +1,3 @@
-Resources
+Resources:-
+Writing Clean Code: Nice Whitespace
+PEP 8 guidelines for code layout https://www.python.org/dev/peps/pep-0008/?#code-lay-out
