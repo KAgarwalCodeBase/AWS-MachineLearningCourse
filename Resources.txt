@@ -1,3 +1,14 @@
 Resources:-
-Writing Clean Code: Nice Whitespace
-PEP 8 guidelines for code layout https://www.python.org/dev/peps/pep-0008/?#code-lay-out
+
+1- Writing Clean Code: Nice Whitespace
+   PEP 8 guidelines for code layout 
+   https://www.python.org/dev/peps/pep-0008/?#code-lay-out
+
+2- You can learn more about merge conflicts and methods to handle them here.
+   https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-merge-conflicts
+
+3- How to Version Control Your Production Machine Learning Models
+https://algorithmia.com/blog/how-to-version-control-your-production-machine-learning-models
+
+4-   A successful Git branching model
+	https://nvie.com/posts/a-successful-git-branching-model/
